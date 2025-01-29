@@ -1,4 +1,4 @@
-/* This is file defines acts as the main for the package. A Scanner object is initialized and passed as a parameter to a User Interface object.*/
+/* This is file acts as the main for the package. A Scanner object is initialized and passed as a parameter to a User Interface object.*/
 package PalindromeChecker;
 
 import java.util.Scanner;
